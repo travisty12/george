@@ -1,0 +1,50 @@
+h1 {
+  text-align: center;
+  color: red;
+  font-family: sans-serif;
+  background-color: lightgreen;
+}
+
+h2 {
+  text-align: center;
+  font-family: sans-serif;
+  color: red;
+  background-color: lightgreen;
+}
+
+h3 {
+  text-align: center;
+  color: red;
+  font-family: sans-serif;
+  background-color: lightgreen;
+}
+
+h4 {
+  text-align: center;
+  color: red;
+  font-family: sans-serif;
+  background-color: lightgreen;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: center;
+  color: red;
+  background-color: lightgreen;
+}
+
+ul {
+  color: red;
+  font-family: sans-serif;
+  background-color: lightgreen;
+}
+
+ol {
+  color: red;
+  font-family: sans-serif;
+  background-color: lightgreen;
+}
+
+body {
+  background-color: lightblue;
+}
