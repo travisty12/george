@@ -48,3 +48,9 @@ ol {
 body {
   background-color: lightblue;
 }
+
+img {
+  border-radius: 8px;
+  max-width: 33%;
+  height: auto;
+}
